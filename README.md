@@ -34,8 +34,7 @@ You can click the Preview link to take a look at your changes.
 - Tools: Git, IntelliJ IDEA, JIRA, Swagger
 
 ## Projects and Contributions
-- [Sorrileads]: The system is a multifunctional Dashboard that integrates leads captured on Social Networks, facilitating the management and conversion of these leads into customers for clinics. Using integration between form APIs and personalized response sending via WhatsApp API.
-- The combination of innovative technologies ensures a reduction in marketing costs and greater efficiency in the process of transforming leads into customers.
+- [Sorrileads]: The system is a multifunctional Dashboard that integrates leads captured on Social Networks, facilitating the management and conversion of these leads into customers for clinics. Using integration between form APIs and personalized response sending via WhatsApp API. The combination of innovative technologies ensures a reduction in marketing costs and greater efficiency in the process of transforming leads into customers.
 - [E-Commerce](link-to-the-project): Construction of a complete E-commerce site in collaboration with a Developer residing in India. A challenging and intercontinental experience.
 
 ## Get in Touch
