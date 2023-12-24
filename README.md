@@ -2,14 +2,14 @@
 
 <table>
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
 
 ## About Me
 - 🔭 I'm a Java backend developer specialized in building and maintaining robust and scalable systems.
 - 🌱 Currently enhancing my skills in Microservices and Messaging.
 
     </td>
-    <td valign="top">
+    <td valign="top" width="50%">
 
 <img src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47jceqlv6p9dyzv08b6quo2sw1vlpr9e5c7up4gipo&rid=giphy.gif&ct=g" width="500" height="300"/>
 
