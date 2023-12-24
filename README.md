@@ -1,11 +1,21 @@
 # Hello, I'm VastiDev! 👋
 
+<table>
+  <tr>
+    <td valign="top">
+
 ## About Me
 - 🔭 I'm a Java backend developer specialized in building and maintaining robust and scalable systems.
 - 🌱 Currently enhancing my skills in Microservices and Messaging.
 
-![Woman Coding](https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47jceqlv6p9dyzv08b6quo2sw1vlpr9e5c7up4gipo&rid=giphy.gif&ct=g)
+    </td>
+    <td valign="top">
 
+<img src="https://media0.giphy.com/media/LMcB8XospGZO8UQq87/200w.webp?cid=ecf05e47jceqlv6p9dyzv08b6quo2sw1vlpr9e5c7up4gipo&rid=200w.webp&ct=g" width="200" height="200"/>
+
+    </td>
+  </tr>
+</table>
 
 ## Tecnologias e Ferramentas
 ## Tecnologias e Ferramentas
