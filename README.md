@@ -13,7 +13,7 @@
   <!-- Certifique-se de que a próxima célula da tabela está diretamente ao lado da tag de fechamento do td anterior -->
   <td width="50%" valign="top">
 
-<img src="https://media0.giphy.com/media/LMcB8XospGZO8UQq87/200w.webp?cid=ecf05e47jceqlv6p9dyzv08b6quo2sw1vlpr9e5c7up4gipo&rid=200w.webp&ct=g" width="400" height="300" />
+<img src="https://media0.giphy.com/media/LMcB8XospGZO8UQq87/200w.webp?cid=ecf05e47jceqlv6p9dyzv08b6quo2sw1vlpr9e5c7up4gipo&rid=200w.webp&ct=g" width="300" height="200" />
 
   </td>
  </tr>
