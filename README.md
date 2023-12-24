@@ -3,7 +3,7 @@
 <!-- Início da tabela para layout lado a lado -->
 <table border="0">
  <tr>
-  <td width="70%" valign="top">
+  <td width="60%" valign="top">
 
 ## Sobre Mim
 - 🔭 Desenvolvedora backend Java especializada em construir e manter sistemas robustos e escaláveis.
