@@ -1,15 +1,17 @@
+# Hello, I'm VastiDev! 👋
+
 <table>
   <tr>
-    <td>
+    <td valign="top">
 
 ## About Me
 - 🔭 I'm a Java backend developer specialized in building and maintaining robust and scalable systems.
 - 🌱 Currently enhancing my skills in Microservices and Messaging.
 
     </td>
-    <td>
+    <td valign="top">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="300"/>
+<img src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47jceqlv6p9dyzv08b6quo2sw1vlpr9e5c7up4gipo&rid=giphy.gif&ct=g" width="500" height="300"/>
 
     </td>
   </tr>
