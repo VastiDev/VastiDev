@@ -11,7 +11,7 @@
     </td>
     <td>
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="300"/>
+<img src="https://www.pluralsight.com/"/>
 
     </td>
   </tr>
