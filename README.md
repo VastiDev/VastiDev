@@ -77,6 +77,15 @@ You can click the Preview link to take a look at your changes.
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
+![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-009688?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot)
+![Spring Data](https://img.shields.io/badge/-Spring%20Data-6DB33F?style=flat-square&logo=spring)
+![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F?style=flat-square&logo=spring)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/-Mockito-989898?style=flat-square)
+![Microservices](https://img.shields.io/badge/-Microservices-FFCA28?style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 
 ## Projects and Contributions
