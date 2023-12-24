@@ -5,9 +5,9 @@
  <tr>
   <td width="70%" valign="top">
 
-## About Me
-- 🔭 I'm a Java backend developer specialized in building and maintaining robust and scalable systems.
-- 🌱 Currently enhancing my skills in Microservices and Messaging.
+## Sobre Mim
+- 🔭 Desenvolvedora backend Java especializada em construir e manter sistemas robustos e escaláveis.
+- 🌱 Atualmente aprimorando minhas habilidades em Microservices e Mensageria.
 
   </td>
   <!-- Certifique-se de que a próxima célula da tabela está diretamente ao lado da tag de fechamento do td anterior -->
