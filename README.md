@@ -1,21 +1,24 @@
 # Hello, I'm VastiDev! 👋
 
-<table>
-  <tr>
-    <td valign="top">
+<!-- Início da tabela para layout lado a lado -->
+<table border="0">
+ <tr>
+  <td width="50%" valign="top">
 
 ## About Me
 - 🔭 I'm a Java backend developer specialized in building and maintaining robust and scalable systems.
 - 🌱 Currently enhancing my skills in Microservices and Messaging.
 
-    </td>
-    <td valign="top">
+  </td>
+  <!-- Certifique-se de que a próxima célula da tabela está diretamente ao lado da tag de fechamento do td anterior -->
+  <td width="50%" valign="top">
 
-<img src="https://media0.giphy.com/media/LMcB8XospGZO8UQq87/200w.webp?cid=ecf05e47jceqlv6p9dyzv08b6quo2sw1vlpr9e5c7up4gipo&rid=200w.webp&ct=g" width="200" height="200"/>
+<img src="https://media0.giphy.com/media/LMcB8XospGZO8UQq87/200w.webp?cid=ecf05e47jceqlv6p9dyzv08b6quo2sw1vlpr9e5c7up4gipo&rid=200w.webp&ct=g" width="400" height="300" />
 
-    </td>
-  </tr>
+  </td>
+ </tr>
 </table>
+<!-- Fim da tabela -->
 
 ## Tecnologias e Ferramentas
 ## Tecnologias e Ferramentas
