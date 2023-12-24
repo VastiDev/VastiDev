@@ -1,5 +1,3 @@
-# Hello, I'm VastiDev! 👋
-
 <table>
   <tr>
     <td>
@@ -11,7 +9,7 @@
     </td>
     <td>
 
-<img src="https://media0.giphy.com/media/LMcB8XospGZO8UQq87/200w.webp?cid=ecf05e47jceqlv6p9dyzv08b6quo2sw1vlpr9e5c7up4gipo&ep=v1_gifs_related&rid=200w.webp&ct=g"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="300"/>
 
     </td>
   </tr>
