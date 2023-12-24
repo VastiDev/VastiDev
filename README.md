@@ -12,7 +12,7 @@
 ## Projetos e Contribuições
 - [Sorrileads]: O sistema é um Dashboard Multifuncional que integra leads capturados nas Redes Sociais, facilitando a gestão e conversão desses leads em clientes para as clínicas. Utilizando a Integração entre APIs de formulários e de envio de respostas personalizadas via Whatsapp API.
 - A combinação de tecnologias inovadoras garante uma diminuição nos custos com marketing e maior eficiência no processo de transformação de leads em clientes..
-- [E-Commerce](link-para-o-projeto): Construção de um site completo de E-commerce em colaboração com um Dev que reside na Índia. Uma experiência desafiadora e intercontinental.
+- [E-Commerce](https://github.com/VastiDev/E-COMMERCE): Construção de um site completo de E-commerce em colaboração com um Dev que reside na Índia. Uma experiência desafiadora e intercontinental.
 
 
 ## Entre em Contato
