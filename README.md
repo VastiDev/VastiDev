@@ -4,6 +4,10 @@
 - 🔭 Desenvolvedora backend Java especializada em construir e manter sistemas robustos e escaláveis.
 - 🌱 Atualmente aprimorando minhas habilidades em Microservices e Mensageria.
 
+  <p align="center">
+  <img src="https://media.licdn.com/dms/image/D5622AQFOgC5GwHlIuw/feedshare-shrink_800/0/1700074388108?e=1706140800&v=beta&t=eFl6bCkg4xKswyugppfw8ILFK6N1MkvWcH6Od3xRcag" alt="Animação">
+</p>
+
 ## Tecnologias e Ferramentas
 ## Tecnologias e Ferramentas
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
