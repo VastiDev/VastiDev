@@ -50,7 +50,8 @@
 
 
 ## Projetos e Contribuições
-- [Sorrileads]: O sistema é um Dashboard Multifuncional que integra leads capturados nas Redes Sociais, facilitando a gestão e conversão desses leads em clientes para as clínicas. Utilizando a Integração entre APIs de formulários e de envio de respostas personalizadas via Whatsapp API. A combinação de tecnologias inovadoras garante uma diminuição nos custos com marketing e maior eficiência no processo de transformação de leads em clientes..
+- [Sorrileads]: O sistema é um Dashboard Multifuncional que integra leads capturados nas Redes Sociais, facilitando a gestão e conversão desses leads em clientes para as clínicas. Utilizando a Integração entre APIs de formulários e de envio de respostas personalizadas via Whatsapp API. A combinação de tecnologias inovadoras garante uma diminuição nos custos com marketing e maior eficiência no processo de transformação de leads em clientes.
+- [Microservices Clients/Cards]: projeto que relaciona microsserviços independentes para criação, avaliação e liberação de cartoes de crédito para os clientes cadastrados. Utilizando as tecnlogias mais atuais do mercado como Spring Cloud, Service Discovery, Api Gateway, Spring Cloud Open Feign para comunicação Sícrona entre os Microservices, Serviços de Mensageria com RabbitMQ, Authorization Server com Keycloak, Imagens e Containers Docker.
 - [E-Commerce](https://github.com/VastiDev/E-COMMERCE): Construção de um site completo de E-commerce em colaboração com um Dev que reside na Índia. Uma experiência desafiadora e intercontinental.
 
 
@@ -104,6 +105,9 @@ You can click the Preview link to take a look at your changes.
 
 ## Projects and Contributions
 - [Sorrileads]: The system is a multifunctional Dashboard that integrates leads captured on Social Networks, facilitating the management and conversion of these leads into customers for clinics. Using integration between form APIs and personalized response sending via WhatsApp API. The combination of innovative technologies ensures a reduction in marketing costs and greater efficiency in the process of transforming leads into customers.
+
+- [Microservices Clients/Cards]: a project that connects independent microservices for the creation, evaluation, and approval of credit cards for registered clients. Utilizing the most current technologies in the market such as Spring Cloud, Service Discovery, API Gateway, Spring Cloud OpenFeign for synchronous communication between the Microservices, Messaging Services with RabbitMQ, Authorization Server with Keycloak, and Docker Images and Containers.
+    
 - [E-Commerce](link-to-the-project): Construction of a complete E-commerce site in collaboration with a Developer residing in India. A challenging and intercontinental experience.
 
 ## Get in Touch
