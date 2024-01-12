@@ -93,6 +93,13 @@ You can click the Preview link to take a look at your changes.
 ![Mockito](https://img.shields.io/badge/-Mockito-989898?style=flat-square)
 ![Microservices](https://img.shields.io/badge/-Microservices-FFCA28?style=flat-square)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=spring-security)
+![OAuth2](https://img.shields.io/badge/-OAuth2-5860AB?style=flat-square)
+![Keycloak](https://img.shields.io/badge/-Keycloak-FF0000?style=flat-square&logo=keycloak)
+![Gateway](https://img.shields.io/badge/-Gateway-7F52FF?style=flat-square)
+![OpenFeign](https://img.shields.io/badge/-OpenFeign-2088FF?style=flat-square)
+![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia)
+
 
 
 ## Projects and Contributions
