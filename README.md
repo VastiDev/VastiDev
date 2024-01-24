@@ -51,7 +51,7 @@
 
 ## Projetos e Contribuições
 - [Sorrileads]: O sistema é um Dashboard Multifuncional que integra leads capturados nas Redes Sociais, facilitando a gestão e conversão desses leads em clientes para as clínicas. Utilizando a Integração entre APIs de formulários e de envio de respostas personalizadas via Whatsapp API. A combinação de tecnologias inovadoras garante uma diminuição nos custos com marketing e maior eficiência no processo de transformação de leads em clientes.
-- [Microservices Clients/Cards]: projeto que relaciona microsserviços independentes para criação, avaliação e liberação de cartoes de crédito para os clientes cadastrados. Utilizando as tecnlogias mais atuais do mercado como Spring Cloud, Service Discovery, Api Gateway, Spring Cloud Open Feign para comunicação Sícrona entre os Microservices, Serviços de Mensageria com RabbitMQ, Authorization Server com Keycloak, Imagens e Containers Docker.
+- [Microservices Clients/Cards]: projeto que relaciona microsserviços independentes para criação, avaliação e liberação de cartoes de crédito para os clientes cadastrados. Utilizando as tecnlogias mais atuais do mercado como Spring Cloud, Service Discovery, Api Gateway, Spring Cloud Open Feign para comunicação síncrona entre os Microservices, Serviços de Mensageria com RabbitMQ, Authorization Server com Keycloak, Imagens e Containers Docker.
 - [E-Commerce](https://github.com/VastiDev/E-COMMERCE): Construção de um site completo de E-commerce em colaboração com um Dev que reside na Índia. Uma experiência desafiadora e intercontinental.
 
 
