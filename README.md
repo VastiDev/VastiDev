@@ -1,13 +1,8 @@
-# Olá, eu sou a VastiDev! 👋
+# Hello, I'm VastiDev! 👋
 
-<!-- Início da tabela para layout lado a lado -->
-<table border="0">
- <tr>
-  <td width="65%" valign="top">
-
-## Sobre Mim
-- 🔭 Desenvolvedora backend Java especializada em construir e manter sistemas robustos e escaláveis.
-- 🌱 Atualmente aprimorando minhas habilidades em Microservices e Mensageria.
+## About Me
+- 🔭 I'm a Java backend developer specialized in building and maintaining robust and scalable systems.
+- 🌱 Currently enhancing my skills in Microservices and Messaging.
 
   </td>
   <!-- Certifique-se de que a próxima célula da tabela está diretamente ao lado da tag de fechamento do td anterior -->
